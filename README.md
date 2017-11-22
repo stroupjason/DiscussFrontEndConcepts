@@ -30,10 +30,10 @@
 
 
 ## Describe how linking to stylesheets/images/scripts works as far as requests/responses
-  * 
+ * The HTML <link> element specifies relatinoships between the current document and an external resource needed. Most common uses for the link tag is linking style sheets, images, and scripts. This includes difining a relational framework for navigation.
 
 
-## Describe how URLs are resolved in a browswer (http request, server..etc.)
-
+## Describe how URLs are resolved in a browser (http request, server..etc.)
+* The browser's functionality is to present the web resource you choose, by requesting it from the server and displaying it in the browser window.  The resource is usually an HTML document, but may also be a PDF, image, or some other type of content requested.  The location of the resource is specified by the user using a URI (uniform resource identifier).
 
 
